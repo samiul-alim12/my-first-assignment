@@ -21,6 +21,12 @@ font-size: 32px;
 font-weight: bold;
 opacity: 80%;
 }
+.card-titles{
+    color: #0E0E0E;
+    font-weight: bold;
+    font-size: 40px;
+    margin-bottom: 24px;
+}
 .ash{
     color: #0E0E0E;
     opacity: 70%;
@@ -97,12 +103,7 @@ h3{
     margin:80px 160px 32px 160px;
 
 }
-.card-titles{
-    color: #0E0E0E;
-    font-weight: bold;
-    font-size: 40px;
-    margin-bottom: 24px;
-}
+
 .description{
     margin-bottom: 32px;
 }
@@ -182,5 +183,39 @@ h3{
 }
 .for-space{
     margin-left: 12px;
+}
+/* donate section style */
+.donate{
+    margin: 80px 160px;
+}
+.about-donate{
+    text-align: center;
+    margin-bottom: 32px;
+}
+.btn{
+    display: flex;
+    justify-content: center;
+   gap: 24px;
+   margin: 0px 104px;
+   
+}
+.btn-primary{
+    color: #0E0E0E;
+   opacity: 80%;
+   font-weight: bold;
+    font-size: 40px;
+    padding: 40px;
+   background-color: #FFFFFF;
+   border-style: none;
+   border-radius: 16px;
+}
+.bgclr{
+    background-color: #C6E4D6;
+}
+.text-center{
+    text-align: center;
+}
+#amount{
+    padding: 20px 420px;
 }
 
