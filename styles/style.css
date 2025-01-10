@@ -15,6 +15,12 @@ body{
     color: 0E0E0E;
     opacity: 50%;
 }
+.text-news{
+color: #0E0E0E;
+font-size: 32px;
+font-weight: bold;
+opacity: 80%;
+}
 .ash{
     color: #0E0E0E;
     opacity: 70%;
@@ -28,6 +34,16 @@ body{
     padding: 17px 34px;
     border-radius: 8px;
     border-style: none;
+}
+.read-more{
+    color:#FFFFFF ;
+    padding: 13px 26px;
+    background-color:#006A50 ;
+    border-style: none;
+    margin-top: 24px;
+    font-size: 18px;
+    font-weight: 700px;
+    border-radius: 8px;
 }
 /* nav style */
 .nav{
@@ -143,3 +159,28 @@ h3{
 .third{
     background-color: #FFC239;
 }
+/* news section style */
+.news{
+    margin: 80px 160px;
+}
+.news-content{
+    display: flex;
+    background-color: #FFFFFF;
+    border-radius: 24px;
+    margin-top:32px ;
+    margin-bottom: 24px;
+
+}
+.news-details{
+    padding: 56px 48px 56px 32px;
+}
+.imge{
+    border-radius: 65px;
+    width: 408px;
+    height: 306px;
+    padding: 48px 32px 48px 48px;
+}
+.for-space{
+    margin-left: 12px;
+}
+
