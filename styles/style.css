@@ -15,6 +15,11 @@ body{
     color: 0E0E0E;
     opacity: 50%;
 }
+.ash{
+    color: #0E0E0E;
+    opacity: 70%;
+    font-size: 16px;
+}
 .btn-share{
     background-color: #006A50;
     font-size: 18px;
@@ -71,4 +76,70 @@ h3{
 .imges{
     padding: 80px 60px ;   
 }
+/* card style */
+.card{
+    margin:80px 160px 32px 160px;
 
+}
+.card-titles{
+    color: #0E0E0E;
+    font-weight: bold;
+    font-size: 40px;
+    margin-bottom: 24px;
+}
+.description{
+    margin-bottom: 32px;
+}
+.card-container{
+    display: flex;
+    gap: 24px;
+    
+    
+}
+/* 1st card */
+.first-card{
+    background-color: #A6C2F2;
+    border-radius: 16px;
+   
+}
+.img{
+    padding: 32px 240px 0px 32px;
+}
+.details{
+    padding:24px 32px;
+}
+.card-title{
+    color: #0E0E0E;
+    opacity: 80%;
+    font-size: 20px;
+    font-weight: bold;
+    margin-bottom: 12px;
+}
+.learn-more{
+    margin-top: 24px;
+    background-color: #6C54F5;
+    border-style: none;
+    border-radius:8px ;
+    padding: 11px 20px;
+    font-size: 16px;
+    font-weight:700px ;
+    color: #FFFFFF;
+}
+/* 2nd card */
+.second-card{
+    background-color: #C6E4D6;
+    border-radius: 16px;
+    
+}
+
+.second{
+    background-color: #09A15C;
+}
+/* 3rd card */
+.third-card{
+    background-color: #F7EBCF;
+    border-radius: 16px;
+}
+.third{
+    background-color: #FFC239;
+}
