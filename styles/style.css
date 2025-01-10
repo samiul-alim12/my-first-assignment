@@ -217,5 +217,7 @@ h3{
 }
 #amount{
     padding: 20px 420px;
+    background-color: #FFFFFF;
+    border-style: none;
 }
 
