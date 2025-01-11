@@ -160,6 +160,31 @@ h3{
 .third{
     background-color: #FFC239;
 }
+
+/* quote section style */
+
+.quote{
+    background-image: url("../assets/quote-bg.png");
+    background-repeat: no-repeat;
+    background-position: left-top;
+    background-position-x: 24px;
+    background-position-y: 25px;
+    margin: 32px 138px 80px 160px;
+    background-color: #FFFFFF;
+    border-radius: 16px;
+}
+.quote-details{
+    padding: 48px 24px;
+}
+.name{
+    margin-top: 12px;
+    margin-bottom: 4px;
+    color: #0E0E0E;
+    opacity: 80%;
+    font-weight: 700px;
+    font-size: 20px;
+}
+
 /* news section style */
 .news{
     margin: 80px 160px;
@@ -263,6 +288,7 @@ h3{
 /* footer style */
 .footer-container{
    background-color: #FFFFFF;
+   margin-top: 80px;
  
 }
 
