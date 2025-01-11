@@ -221,4 +221,42 @@ h3{
     border-style: none;
    margin-top: 32px;
 }
-
+/* subscribe newsletter style */
+.newsletter{
+    background-color: #C6E4D6;
+    border-radius: 16px;
+    margin: 80px 160px;
+    text-align: center;
+}
+.newsletter-title{
+    color: #0E0E0E;
+    font-weight: bold;
+    font-size: 40px;
+    margin-bottom: 16px;
+}
+.newsletter-content{
+    padding: 80px 265px 24px 265px;
+}
+.form-center{
+    display: flex;
+   justify-content: center;
+   
+}
+#email{
+    padding: 18px 400px 18px 40px;
+    background-color: #FFFFFF;
+    border-style: none;
+}
+.subscribe-button{
+    padding: 17px 34px;
+    color: #FFFFFF;
+    font-weight: 700px;
+    font-size: 18px;
+    background-color: #006A50;
+    border-style: none;
+    border-top-right-radius: 8px;
+    border-bottom-right-radius: 8px;
+}
+.spam-message{
+    padding: 24px 329px 80px 329px;
+}
