@@ -78,7 +78,8 @@ h3{
     margin: 20px 160px 80px 160px;
     border-radius: 24px;
     justify-content: space-between;
-    gap: 24px;
+   
+    
 }
  .banner-content{
     padding: 117px 64px 117px 60px;
@@ -96,7 +97,9 @@ h3{
     margin-bottom: 24px;  
 }
 .imges{
-    padding: 80px 60px ;   
+    padding: 50px 24px ;
+    
+     
 }
 /* card style */
 .card{
