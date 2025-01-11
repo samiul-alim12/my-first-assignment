@@ -260,3 +260,31 @@ h3{
 .spam-message{
     padding: 24px 329px 80px 329px;
 }
+/* footer style */
+.footer-container{
+   background-color: #FFFFFF;
+ 
+}
+
+.footer-title{
+    padding-top: 50px;
+    color: #0E0E0E;
+    font-size: 28px;
+    font-weight: 700px;
+    text-align: center; 
+    width: auto;
+}
+
+.footer-image{
+   text-align: center;
+   padding-bottom: 50px;
+}
+.ftr{
+    margin-right: 23px;
+}
+hr{
+    margin:32px 240px;
+    color: #0E0E0E;
+    opacity: 30%;
+}
+
