@@ -98,6 +98,7 @@ h3{
 }
 .imges{
     padding: 50px 24px ;
+   
     
      
 }
@@ -316,4 +317,37 @@ hr{
     color: #0E0E0E;
     opacity: 30%;
 }
+/* make responsive */
+.hide{
+    display: none;
+}
+@media screen and (max-width:576px) {
+    /* header */
+    .nav{
+        flex-direction: column;
+    }
+    .nav > h3{
+        margin-bottom: 10px;
+    }
+    .nav > .btn{
+        padding: 15px;
 
+    }
+    /* banner */
+    .banner{
+        flex-direction: column;
+        background: none;
+        margin: 10px;
+    }
+    .imges > img{
+        
+        width: 100%;
+        padding: 5px;
+    }
+    .banner-content{
+        padding: 10px;
+    }
+    .banner-content > .button{
+        margin-left: 50px;
+    }
+}
